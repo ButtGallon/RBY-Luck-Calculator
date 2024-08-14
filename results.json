@@ -1,0 +1,3381 @@
+{
+  "team1": {
+    "coach": "Al0483",
+    "roster": [
+      {
+        "pokemon": "Staryu",
+        "startform": "Staryu",
+        "nickname": "Staryu",
+        "kills": 0,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 1,
+        "damagedone": 94,
+        "hphealed": 0,
+        "luck": -2.44880859375,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Porygon",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": -1,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Thunder Wave": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Surf": {
+            "uses": 3,
+            "hits": 3,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Dragonair",
+        "startform": "Dragonair",
+        "nickname": "Dragonair",
+        "kills": 0,
+        "deaths": 0,
+        "causeofdeath": null,
+        "support": 1,
+        "damagedone": 275,
+        "hphealed": 0,
+        "luck": 20.72992187499998,
+        "remaininghealth": 81,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": "Vileplume",
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Wrap": {
+            "uses": 32,
+            "hits": 32,
+            "crits": 6,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Thunder Wave": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Ice Beam": {
+            "uses": 4,
+            "hits": 4,
+            "crits": 0,
+            "posssecondaryeffects": 3,
+            "secondaryeffects": 1
+          }
+        }
+      },
+      {
+        "pokemon": "Drowzee",
+        "startform": "Drowzee",
+        "nickname": "Drowzee",
+        "kills": 1,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 1,
+        "damagedone": 107,
+        "hphealed": 0,
+        "luck": -1.8601953125,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Porygon",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Reflect": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Psychic": {
+            "uses": 3,
+            "hits": 3,
+            "crits": 0,
+            "posssecondaryeffects": 2,
+            "secondaryeffects": 1
+          },
+          "Thunder Wave": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "startform": "Nidoqueen",
+        "nickname": "Nidoqueen",
+        "kills": 2,
+        "deaths": 0,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 74,
+        "hphealed": 0,
+        "luck": -0.63020703125,
+        "remaininghealth": 62,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Blizzard": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 1,
+            "secondaryeffects": 0
+          },
+          "Earthquake": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Fearow",
+        "startform": "Fearow",
+        "nickname": "Fearow",
+        "kills": 0,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 0,
+        "hphealed": 0,
+        "luck": -4.035109375,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Vileplume",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Agility": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Arcanine",
+        "startform": "Arcanine",
+        "nickname": "Arcanine",
+        "kills": 3,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 132,
+        "hphealed": 0,
+        "luck": -2.2015273437499996,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Body Slam": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 1,
+            "posssecondaryeffects": 1,
+            "secondaryeffects": 0
+          },
+          "Flamethrower": {
+            "uses": 4,
+            "hits": 4,
+            "crits": 0,
+            "posssecondaryeffects": 1,
+            "secondaryeffects": 0
+          },
+          "Agility": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      }
+    ],
+    "wins": 1,
+    "forfeit": 0,
+    "score": 2,
+    "timesswitched": 8,
+    "selfdeaths": 0,
+    "remaininghealth": 143,
+    "totalhealth": 600,
+    "kills": 6,
+    "deaths": 4,
+    "luck": 9.5541,
+    "damagedone": 682,
+    "hphealed": 0,
+    "support": 3,
+    "activemon": "Nidoqueen",
+    "Leech Seed": null
+  },
+  "team2": {
+    "coach": "ButtGallon",
+    "roster": [
+      {
+        "pokemon": "Porygon",
+        "startform": "Porygon",
+        "nickname": "Porygon",
+        "kills": 0,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 2,
+        "damagedone": 29,
+        "hphealed": 94,
+        "luck": 0.1314726562500001,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Staryu",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Thunder Wave": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Recover": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Psychic": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 1,
+            "secondaryeffects": 1
+          },
+          "Reflect": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "startform": "Nidoqueen",
+        "nickname": "Nidoqueen",
+        "kills": 1,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 71,
+        "hphealed": 0,
+        "luck": -8.54787109375,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Earthquake": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Thunderbolt": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 1,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Blizzard": {
+            "uses": 1,
+            "hits": 0,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Fearow",
+        "startform": "Fearow",
+        "nickname": "Fearow",
+        "kills": 1,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 199,
+        "hphealed": -12,
+        "luck": 3.2059921874999997,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Drowzee",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": -1,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Double-Edge": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Hyper Beam": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 2,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Seaking",
+        "startform": "Seaking",
+        "nickname": "Seaking",
+        "kills": 0,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 19,
+        "hphealed": 0,
+        "luck": -7.011957031250002,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": "Dragonair",
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Surf": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Vileplume",
+        "startform": "Vileplume",
+        "nickname": "Vileplume",
+        "kills": 1,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 2,
+        "damagedone": 100,
+        "hphealed": 0,
+        "luck": 3.2896757812500006,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Sleep Powder": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Stun Spore": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Hyper Beam": {
+            "uses": 2,
+            "hits": 2,
+            "crits": 1,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          }
+        }
+      },
+      {
+        "pokemon": "Arcanine",
+        "startform": "Arcanine",
+        "nickname": "Arcanine",
+        "kills": 1,
+        "deaths": 1,
+        "causeofdeath": null,
+        "support": 0,
+        "damagedone": 39,
+        "hphealed": 0,
+        "luck": -0.62138671875,
+        "remaininghealth": 0,
+        "lines": [],
+        "confusion": null,
+        "psn": null,
+        "brn": null,
+        "par": null,
+        "frz": null,
+        "tox": null,
+        "slp": null,
+        "atk": 0,
+        "def": 0,
+        "spa": 0,
+        "spd": 0,
+        "spe": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "Focus Energy": false,
+        "moves": {
+          "Body Slam": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 0,
+            "secondaryeffects": 0
+          },
+          "Fire Blast": {
+            "uses": 1,
+            "hits": 1,
+            "crits": 0,
+            "posssecondaryeffects": 1,
+            "secondaryeffects": 0
+          }
+        }
+      }
+    ],
+    "wins": 0,
+    "forfeit": 0,
+    "score": 0,
+    "timesswitched": 36,
+    "selfdeaths": 0,
+    "remaininghealth": 0,
+    "totalhealth": 600,
+    "kills": 4,
+    "deaths": 6,
+    "luck": -9.5541,
+    "damagedone": 457,
+    "hphealed": 82,
+    "support": 4,
+    "activemon": "Nidoqueen",
+    "Leech Seed": null
+  },
+  "numberofturns": 80,
+  "turns": [],
+  "replay": "https://replay.pokemonshowdown.com/gen1pu-2176734361",
+  "significantevents": [
+    [
+      1,
+      "Staryu provided support by using Thunder Wave"
+    ],
+    [
+      1,
+      "Porygon provided support by using Thunder Wave"
+    ],
+    [
+      25,
+      "Nidoqueen killed Staryu with Thunderbolt"
+    ],
+    [
+      27,
+      "Porygon provided support by using Thunder Wave"
+    ],
+    [
+      28,
+      "Drowzee killed Porygon with Psychic"
+    ],
+    [
+      29,
+      "Drowzee provided support by using Thunder Wave"
+    ],
+    [
+      31,
+      "Fearow killed Drowzee with Hyper Beam"
+    ],
+    [
+      34,
+      "Dragonair provided support by using Thunder Wave"
+    ],
+    [
+      67,
+      "Vileplume provided support by using Sleep Powder"
+    ],
+    [
+      68,
+      "Vileplume provided support by using Stun Spore"
+    ],
+    [
+      71,
+      "Vileplume killed Fearow with Hyper Beam"
+    ],
+    [
+      72,
+      "Arcanine killed Vileplume with Body Slam"
+    ],
+    [
+      74,
+      "Arcanine killed Seaking with Flamethrower"
+    ],
+    [
+      77,
+      "Arcanine killed Fearow with Flamethrower"
+    ],
+    [
+      78,
+      "Arcanine killed Arcanine with Body Slam"
+    ],
+    [
+      79,
+      "Nidoqueen killed Arcanine with Earthquake"
+    ],
+    [
+      80,
+      "Nidoqueen killed Nidoqueen with Earthquake"
+    ]
+  ],
+  "luckcatalog": [
+    [
+      72,
+      "Arcanine",
+      "Mon did not miss (Body Slam)",
+      0.0,
+      0.0098,
+      0.0098
+    ],
+    [
+      72,
+      "Arcanine",
+      "Mon did not land a crit with (Body Slam)",
+      0.0098,
+      -0.2319,
+      -0.2222
+    ],
+    [
+      73,
+      "Arcanine",
+      "Mon did not miss (Flamethrower)",
+      -0.2222,
+      0.0098,
+      -0.2124
+    ],
+    [
+      73,
+      "Arcanine",
+      "Mon did not land a crit with (Flamethrower)",
+      -0.2124,
+      -0.2319,
+      -0.4444
+    ],
+    [
+      73,
+      "Arcanine",
+      "Mon did not land secondary effect from (Flamethrower)",
+      -0.4444,
+      -0.1,
+      -0.5444
+    ],
+    [
+      74,
+      "Arcanine",
+      "Mon did not miss (Flamethrower)",
+      -0.5444,
+      0.0098,
+      -0.5346
+    ],
+    [
+      74,
+      "Arcanine",
+      "Mon did not land a crit with (Flamethrower)",
+      -0.5346,
+      -0.2319,
+      -0.7666
+    ],
+    [
+      75,
+      "Arcanine",
+      "Mon did not miss (Flamethrower)",
+      -0.7666,
+      0.0098,
+      -0.7568
+    ],
+    [
+      75,
+      "Arcanine",
+      "Mon did not land a crit with (Flamethrower)",
+      -0.7568,
+      -0.2319,
+      -0.9887
+    ],
+    [
+      75,
+      "Arcanine",
+      "Opponent Broke Through Paralysis",
+      -0.9887,
+      -0.375,
+      -1.3637
+    ],
+    [
+      75,
+      "Arcanine",
+      "Mon hit by (Hyper Beam) ",
+      -1.3637,
+      -0.2598,
+      -1.6235
+    ],
+    [
+      75,
+      "Arcanine",
+      "Mon was hit by a critical hit",
+      -1.6235,
+      -1.0059,
+      -2.6293
+    ],
+    [
+      77,
+      "Arcanine",
+      "Mon did not miss (Flamethrower)",
+      -2.6293,
+      0.0098,
+      -2.6196
+    ],
+    [
+      77,
+      "Arcanine",
+      "Mon did not land a crit with (Flamethrower)",
+      -2.6196,
+      -0.2319,
+      -2.8515
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon did not miss (Body Slam)",
+      -2.8515,
+      0.0098,
+      -2.8418
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon hit by (Body Slam) ",
+      0.0,
+      -0.0098,
+      -0.0098
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon landed a critical hit",
+      -2.8418,
+      1.0181,
+      -1.8237
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon was hit by a critical hit",
+      -0.0098,
+      -1.0181,
+      -1.0278
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon did not land secondary effect from (Body Slam)",
+      -1.8237,
+      -0.6,
+      -2.4237
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon avoided secondary effect from (Body Slam)",
+      -1.0278,
+      0.6,
+      -0.4278
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon did not miss (Body Slam)",
+      -0.4278,
+      0.0098,
+      -0.4181
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon hit by (Body Slam) ",
+      -2.4237,
+      -0.0098,
+      -2.4335
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon did not land a crit with (Body Slam)",
+      -0.4181,
+      -0.2319,
+      -0.65
+    ],
+    [
+      78,
+      "Arcanine",
+      "Mon was not crit by (Body Slam)",
+      -2.4335,
+      0.2319,
+      -2.2015
+    ],
+    [
+      79,
+      "Arcanine",
+      "Mon did not miss (Fire Blast)",
+      -0.65,
+      0.3848,
+      -0.2652
+    ],
+    [
+      79,
+      "Arcanine",
+      "Mon did not land a crit with (Fire Blast)",
+      -0.2652,
+      -0.2319,
+      -0.4972
+    ],
+    [
+      79,
+      "Arcanine",
+      "Mon did not land secondary effect from (Fire Blast)",
+      -0.4972,
+      -0.3,
+      -0.7972
+    ],
+    [
+      79,
+      "Arcanine",
+      "Mon hit by (Earthquake) ",
+      -0.7972,
+      -0.0098,
+      -0.8069
+    ],
+    [
+      79,
+      "Arcanine",
+      "Mon was not crit by (Earthquake)",
+      -0.8069,
+      0.1855,
+      -0.6214
+    ],
+    [
+      8,
+      "Dragonair",
+      "Opponent Broke Through Paralysis",
+      0.0,
+      -0.375,
+      -0.375
+    ],
+    [
+      9,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      -0.375,
+      0.3848,
+      0.0098
+    ],
+    [
+      9,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      0.0098,
+      -0.1709,
+      -0.1611
+    ],
+    [
+      13,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      -0.1611,
+      0.3848,
+      0.2236
+    ],
+    [
+      13,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      0.2236,
+      -0.1709,
+      0.0527
+    ],
+    [
+      15,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      0.0527,
+      0.3848,
+      0.4375
+    ],
+    [
+      15,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      0.4375,
+      -0.1709,
+      0.2666
+    ],
+    [
+      17,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      0.2666,
+      0.3848,
+      0.6513
+    ],
+    [
+      17,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      0.6513,
+      -0.1709,
+      0.4804
+    ],
+    [
+      20,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      0.4804,
+      0.3848,
+      0.8652
+    ],
+    [
+      20,
+      "Dragonair",
+      "Mon landed a critical hit",
+      0.8652,
+      1.0791,
+      1.9443
+    ],
+    [
+      21,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      1.9443,
+      0.3848,
+      2.329
+    ],
+    [
+      21,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      2.329,
+      -0.1709,
+      2.1581
+    ],
+    [
+      33,
+      "Dragonair",
+      "Mon hit by (Surf) ",
+      2.1581,
+      -0.0098,
+      2.1484
+    ],
+    [
+      33,
+      "Dragonair",
+      "Mon was not crit by (Surf)",
+      2.1484,
+      0.166,
+      2.3144
+    ],
+    [
+      34,
+      "Dragonair",
+      "Mon did not miss (Thunder Wave)",
+      2.3144,
+      0.0098,
+      2.3241
+    ],
+    [
+      34,
+      "Dragonair",
+      "Opponent Could Not Move Due to Paralysis",
+      2.3241,
+      1.125,
+      3.4491
+    ],
+    [
+      35,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      3.4491,
+      0.3848,
+      3.8339
+    ],
+    [
+      35,
+      "Dragonair",
+      "Mon landed a critical hit",
+      3.8339,
+      1.0791,
+      4.913
+    ],
+    [
+      36,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      4.913,
+      0.3848,
+      5.2977
+    ],
+    [
+      36,
+      "Dragonair",
+      "Mon landed a critical hit",
+      5.2977,
+      1.0791,
+      6.3768
+    ],
+    [
+      37,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      6.3768,
+      0.3848,
+      6.7616
+    ],
+    [
+      37,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      6.7616,
+      -0.1709,
+      6.5907
+    ],
+    [
+      38,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      6.5907,
+      0.3848,
+      6.9754
+    ],
+    [
+      38,
+      "Dragonair",
+      "Mon landed a critical hit",
+      6.9754,
+      1.0791,
+      8.0545
+    ],
+    [
+      39,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      8.0545,
+      0.3848,
+      8.4393
+    ],
+    [
+      39,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      8.4393,
+      -0.1709,
+      8.2684
+    ],
+    [
+      40,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      8.2684,
+      0.3848,
+      8.6531
+    ],
+    [
+      40,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      8.6531,
+      -0.1709,
+      8.4822
+    ],
+    [
+      43,
+      "Dragonair",
+      "Opponent missed a move (Blizzard)",
+      8.4822,
+      2.25,
+      10.7322
+    ],
+    [
+      43,
+      "Dragonair",
+      "Mon did not miss (Ice Beam)",
+      10.7322,
+      0.0098,
+      10.742
+    ],
+    [
+      43,
+      "Dragonair",
+      "Mon did not land a crit with (Ice Beam)",
+      10.742,
+      -0.1709,
+      10.5711
+    ],
+    [
+      43,
+      "Dragonair",
+      "Mon landed secondary effect from (Ice Beam)",
+      10.5711,
+      4.5,
+      15.0711
+    ],
+    [
+      44,
+      "Dragonair",
+      "Mon did not miss (Ice Beam)",
+      15.0711,
+      0.0098,
+      15.0808
+    ],
+    [
+      44,
+      "Dragonair",
+      "Mon did not land a crit with (Ice Beam)",
+      15.0808,
+      -0.1709,
+      14.9099
+    ],
+    [
+      45,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      14.9099,
+      0.3848,
+      15.2947
+    ],
+    [
+      45,
+      "Dragonair",
+      "Mon landed a critical hit",
+      15.2947,
+      1.0791,
+      16.3738
+    ],
+    [
+      46,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      16.3738,
+      0.3848,
+      16.7585
+    ],
+    [
+      46,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      16.7585,
+      -0.1709,
+      16.5876
+    ],
+    [
+      47,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      16.5876,
+      0.3848,
+      16.9724
+    ],
+    [
+      47,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      16.9724,
+      -0.1709,
+      16.8015
+    ],
+    [
+      48,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      16.8015,
+      0.3848,
+      17.1862
+    ],
+    [
+      48,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      17.1862,
+      -0.1709,
+      17.0153
+    ],
+    [
+      49,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      17.0153,
+      0.3848,
+      17.4001
+    ],
+    [
+      49,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      17.4001,
+      -0.1709,
+      17.2292
+    ],
+    [
+      50,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      17.2292,
+      0.3848,
+      17.6139
+    ],
+    [
+      50,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      17.6139,
+      -0.1709,
+      17.443
+    ],
+    [
+      51,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      17.443,
+      0.3848,
+      17.8278
+    ],
+    [
+      51,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      17.8278,
+      -0.1709,
+      17.6569
+    ],
+    [
+      52,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      17.6569,
+      0.3848,
+      18.0416
+    ],
+    [
+      52,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      18.0416,
+      -0.1709,
+      17.8707
+    ],
+    [
+      53,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      17.8707,
+      0.3848,
+      18.2555
+    ],
+    [
+      53,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      18.2555,
+      -0.1709,
+      18.0846
+    ],
+    [
+      54,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      18.0846,
+      0.3848,
+      18.4694
+    ],
+    [
+      54,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      18.4694,
+      -0.1709,
+      18.2985
+    ],
+    [
+      55,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      18.2985,
+      0.3848,
+      18.6832
+    ],
+    [
+      55,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      18.6832,
+      -0.1709,
+      18.5123
+    ],
+    [
+      56,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      18.5123,
+      0.3848,
+      18.8971
+    ],
+    [
+      56,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      18.8971,
+      -0.1709,
+      18.7262
+    ],
+    [
+      57,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      18.7262,
+      0.3848,
+      19.1109
+    ],
+    [
+      57,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      19.1109,
+      -0.1709,
+      18.94
+    ],
+    [
+      58,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      18.94,
+      0.3848,
+      19.3248
+    ],
+    [
+      58,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      19.3248,
+      -0.1709,
+      19.1539
+    ],
+    [
+      59,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      19.1539,
+      0.3848,
+      19.5386
+    ],
+    [
+      59,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      19.5386,
+      -0.1709,
+      19.3677
+    ],
+    [
+      60,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      19.3677,
+      0.3848,
+      19.7525
+    ],
+    [
+      60,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      19.7525,
+      -0.1709,
+      19.5816
+    ],
+    [
+      61,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      19.5816,
+      0.3848,
+      19.9663
+    ],
+    [
+      61,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      19.9663,
+      -0.1709,
+      19.7954
+    ],
+    [
+      62,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      19.7954,
+      0.3848,
+      20.1802
+    ],
+    [
+      62,
+      "Dragonair",
+      "Mon landed a critical hit",
+      20.1802,
+      1.0791,
+      21.2593
+    ],
+    [
+      63,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      21.2593,
+      0.3848,
+      21.644
+    ],
+    [
+      63,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      21.644,
+      -0.1709,
+      21.4731
+    ],
+    [
+      64,
+      "Dragonair",
+      "Mon did not miss (Wrap)",
+      21.4731,
+      0.3848,
+      21.8579
+    ],
+    [
+      64,
+      "Dragonair",
+      "Mon did not land a crit with (Wrap)",
+      21.8579,
+      -0.1709,
+      21.687
+    ],
+    [
+      66,
+      "Dragonair",
+      "Mon did not miss (Ice Beam)",
+      21.687,
+      0.0098,
+      21.6967
+    ],
+    [
+      66,
+      "Dragonair",
+      "Mon did not land a crit with (Ice Beam)",
+      21.6967,
+      -0.1709,
+      21.5258
+    ],
+    [
+      67,
+      "Dragonair",
+      "Mon did not miss (Ice Beam)",
+      21.5258,
+      0.0098,
+      21.5356
+    ],
+    [
+      67,
+      "Dragonair",
+      "Mon did not land a crit with (Ice Beam)",
+      21.5356,
+      -0.1709,
+      21.3647
+    ],
+    [
+      67,
+      "Dragonair",
+      "Mon hit by (Sleep Powder) ",
+      21.3647,
+      -0.6348,
+      20.7299
+    ],
+    [
+      27,
+      "Drowzee",
+      "Mon did not miss (Psychic)",
+      0.0,
+      0.0098,
+      0.0098
+    ],
+    [
+      27,
+      "Drowzee",
+      "Mon did not land a crit with (Psychic)",
+      0.0098,
+      -0.1025,
+      -0.0928
+    ],
+    [
+      27,
+      "Drowzee",
+      "Mon did not land secondary effect from (Psychic)",
+      -0.0928,
+      -0.33,
+      -0.4228
+    ],
+    [
+      27,
+      "Drowzee",
+      "Opponent Broke Through Paralysis",
+      -0.4228,
+      -0.375,
+      -0.7978
+    ],
+    [
+      27,
+      "Drowzee",
+      "Mon hit by (Thunder Wave) ",
+      -0.7978,
+      -0.0098,
+      -0.8075
+    ],
+    [
+      28,
+      "Drowzee",
+      "Mon Broke Through Paralysis",
+      -0.8075,
+      0.375,
+      -0.4325
+    ],
+    [
+      28,
+      "Drowzee",
+      "Mon did not miss (Psychic)",
+      -0.4325,
+      0.0098,
+      -0.4228
+    ],
+    [
+      28,
+      "Drowzee",
+      "Mon did not land a crit with (Psychic)",
+      -0.4228,
+      -0.1025,
+      -0.5253
+    ],
+    [
+      29,
+      "Drowzee",
+      "Mon hit by (Double-Edge) ",
+      -0.5253,
+      -0.0098,
+      -0.5351
+    ],
+    [
+      29,
+      "Drowzee",
+      "Mon was not crit by (Double-Edge)",
+      -0.5351,
+      0.2441,
+      -0.2909
+    ],
+    [
+      29,
+      "Drowzee",
+      "Mon Broke Through Paralysis",
+      -0.2909,
+      0.375,
+      0.0841
+    ],
+    [
+      29,
+      "Drowzee",
+      "Mon did not miss (Thunder Wave)",
+      0.0841,
+      0.0098,
+      0.0938
+    ],
+    [
+      30,
+      "Drowzee",
+      "Opponent Broke Through Paralysis",
+      0.0938,
+      -0.375,
+      -0.2812
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon hit by (Double-Edge) ",
+      -0.2812,
+      -0.0098,
+      -0.2909
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon was not crit by (Double-Edge)",
+      -0.2909,
+      0.2441,
+      -0.0468
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon Broke Through Paralysis",
+      -0.0468,
+      0.375,
+      0.3282
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon did not miss (Psychic)",
+      0.3282,
+      0.0098,
+      0.338
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon did not land a crit with (Psychic)",
+      0.338,
+      -0.1025,
+      0.2354
+    ],
+    [
+      30,
+      "Drowzee",
+      "Mon landed secondary effect from (Psychic)",
+      0.2354,
+      0.67,
+      0.9054
+    ],
+    [
+      31,
+      "Drowzee",
+      "Mon Could Not Move Due to Paralysis",
+      0.9054,
+      -1.125,
+      -0.2196
+    ],
+    [
+      31,
+      "Drowzee",
+      "Opponent Broke Through Paralysis",
+      -0.2196,
+      -0.375,
+      -0.5946
+    ],
+    [
+      31,
+      "Drowzee",
+      "Mon hit by (Hyper Beam) ",
+      -0.5946,
+      -0.2598,
+      -0.8543
+    ],
+    [
+      31,
+      "Drowzee",
+      "Mon was hit by a critical hit",
+      -0.8543,
+      -1.0059,
+      -1.8602
+    ],
+    [
+      29,
+      "Fearow",
+      "Mon did not miss (Double-Edge)",
+      0.0,
+      0.0098,
+      0.0098
+    ],
+    [
+      29,
+      "Fearow",
+      "Mon did not land a crit with (Double-Edge)",
+      0.0098,
+      -0.2441,
+      -0.2344
+    ],
+    [
+      29,
+      "Fearow",
+      "Opponent Broke Through Paralysis",
+      -0.2344,
+      -0.375,
+      -0.6094
+    ],
+    [
+      29,
+      "Fearow",
+      "Mon hit by (Thunder Wave) ",
+      -0.6094,
+      -0.0098,
+      -0.6191
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon Broke Through Paralysis",
+      -0.6191,
+      0.375,
+      -0.2441
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon did not miss (Double-Edge)",
+      -0.2441,
+      0.0098,
+      -0.2344
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon did not land a crit with (Double-Edge)",
+      -0.2344,
+      -0.2441,
+      -0.4785
+    ],
+    [
+      30,
+      "Fearow",
+      "Opponent Broke Through Paralysis",
+      -0.4785,
+      -0.375,
+      -0.8535
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon hit by (Psychic) ",
+      -0.8535,
+      -0.0098,
+      -0.8633
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon was not crit by (Psychic)",
+      -0.8633,
+      0.1025,
+      -0.7607
+    ],
+    [
+      30,
+      "Fearow",
+      "Mon was hit with secondary effect from (Psychic)",
+      -0.7607,
+      -0.67,
+      -1.4307
+    ],
+    [
+      31,
+      "Fearow",
+      "Opponent Could Not Move Due to Paralysis",
+      -1.4307,
+      1.125,
+      -0.3057
+    ],
+    [
+      31,
+      "Fearow",
+      "Mon Broke Through Paralysis",
+      -0.3057,
+      0.375,
+      0.0693
+    ],
+    [
+      31,
+      "Fearow",
+      "Mon did not miss (Hyper Beam)",
+      0.0693,
+      0.2598,
+      0.329
+    ],
+    [
+      31,
+      "Fearow",
+      "Mon landed a critical hit",
+      0.329,
+      1.0059,
+      1.3349
+    ],
+    [
+      46,
+      "Fearow",
+      "Mon hit by (Wrap) ",
+      1.3349,
+      -0.3848,
+      0.9501
+    ],
+    [
+      46,
+      "Fearow",
+      "Mon was not crit by (Wrap)",
+      0.9501,
+      0.1709,
+      1.121
+    ],
+    [
+      68,
+      "Fearow",
+      "Mon hit by (Stun Spore) ",
+      0.0,
+      -0.6348,
+      -0.6348
+    ],
+    [
+      69,
+      "Fearow",
+      "Mon hit by (Hyper Beam) ",
+      -0.6348,
+      -0.2598,
+      -0.8945
+    ],
+    [
+      69,
+      "Fearow",
+      "Mon was not crit by (Hyper Beam)",
+      -0.8945,
+      0.1221,
+      -0.7724
+    ],
+    [
+      69,
+      "Fearow",
+      "Mon Broke Through Paralysis",
+      -0.7724,
+      0.375,
+      -0.3974
+    ],
+    [
+      70,
+      "Fearow",
+      "Mon Could Not Move Due to Paralysis",
+      -0.3974,
+      -1.125,
+      -1.5224
+    ],
+    [
+      71,
+      "Fearow",
+      "Mon Could Not Move Due to Paralysis",
+      -1.5224,
+      -1.125,
+      -2.6474
+    ],
+    [
+      71,
+      "Fearow",
+      "Mon hit by (Hyper Beam) ",
+      -2.6474,
+      -0.2598,
+      -2.9072
+    ],
+    [
+      71,
+      "Fearow",
+      "Mon was hit by a critical hit",
+      -2.9072,
+      -1.1279,
+      -4.0351
+    ],
+    [
+      75,
+      "Fearow",
+      "Mon hit by (Flamethrower) ",
+      1.121,
+      -0.0098,
+      1.1113
+    ],
+    [
+      75,
+      "Fearow",
+      "Mon was not crit by (Flamethrower)",
+      1.1113,
+      0.2319,
+      1.3432
+    ],
+    [
+      75,
+      "Fearow",
+      "Mon Broke Through Paralysis",
+      1.3432,
+      0.375,
+      1.7182
+    ],
+    [
+      75,
+      "Fearow",
+      "Mon did not miss (Hyper Beam)",
+      1.7182,
+      0.2598,
+      1.9779
+    ],
+    [
+      75,
+      "Fearow",
+      "Mon landed a critical hit",
+      1.9779,
+      1.0059,
+      2.9838
+    ],
+    [
+      77,
+      "Fearow",
+      "Mon hit by (Flamethrower) ",
+      2.9838,
+      -0.0098,
+      2.9741
+    ],
+    [
+      77,
+      "Fearow",
+      "Mon was not crit by (Flamethrower)",
+      2.9741,
+      0.2319,
+      3.206
+    ],
+    [
+      21,
+      "Nidoqueen",
+      "Mon hit by (Wrap) ",
+      0.0,
+      -0.3848,
+      -0.3848
+    ],
+    [
+      21,
+      "Nidoqueen",
+      "Mon was not crit by (Wrap)",
+      -0.3848,
+      0.1709,
+      -0.2139
+    ],
+    [
+      24,
+      "Nidoqueen",
+      "Mon did not miss (Earthquake)",
+      -0.2139,
+      0.0098,
+      -0.2041
+    ],
+    [
+      24,
+      "Nidoqueen",
+      "Mon did not land a crit with (Earthquake)",
+      -0.2041,
+      -0.1855,
+      -0.3896
+    ],
+    [
+      25,
+      "Nidoqueen",
+      "Mon did not miss (Thunderbolt)",
+      -0.3896,
+      0.0098,
+      -0.3799
+    ],
+    [
+      25,
+      "Nidoqueen",
+      "Mon landed a critical hit",
+      -0.3799,
+      1.0645,
+      0.6846
+    ],
+    [
+      32,
+      "Nidoqueen",
+      "Mon did not miss (Blizzard)",
+      0.0,
+      0.2598,
+      0.2598
+    ],
+    [
+      32,
+      "Nidoqueen",
+      "Mon did not land a crit with (Blizzard)",
+      0.2598,
+      -0.1855,
+      0.0742
+    ],
+    [
+      32,
+      "Nidoqueen",
+      "Mon did not land secondary effect from (Blizzard)",
+      0.0742,
+      -0.5,
+      -0.4258
+    ],
+    [
+      36,
+      "Nidoqueen",
+      "Mon hit by (Wrap) ",
+      0.6846,
+      -0.3848,
+      0.2998
+    ],
+    [
+      36,
+      "Nidoqueen",
+      "Mon was hit by a critical hit",
+      0.2998,
+      -1.0791,
+      -0.7793
+    ],
+    [
+      38,
+      "Nidoqueen",
+      "Mon hit by (Wrap) ",
+      -0.7793,
+      -0.3848,
+      -1.164
+    ],
+    [
+      38,
+      "Nidoqueen",
+      "Mon was hit by a critical hit",
+      -1.164,
+      -1.0791,
+      -2.2431
+    ],
+    [
+      40,
+      "Nidoqueen",
+      "Mon hit by (Wrap) ",
+      -2.2431,
+      -0.3848,
+      -2.6279
+    ],
+    [
+      40,
+      "Nidoqueen",
+      "Mon was not crit by (Wrap)",
+      -2.6279,
+      0.1709,
+      -2.457
+    ],
+    [
+      43,
+      "Nidoqueen",
+      "Mon missed a move (Blizzard)",
+      -2.457,
+      -2.25,
+      -4.707
+    ],
+    [
+      43,
+      "Nidoqueen",
+      "Mon hit by (Ice Beam) ",
+      -4.707,
+      -0.0098,
+      -4.7168
+    ],
+    [
+      43,
+      "Nidoqueen",
+      "Mon was not crit by (Ice Beam)",
+      -4.7168,
+      0.1709,
+      -4.5459
+    ],
+    [
+      43,
+      "Nidoqueen",
+      "Mon was hit with secondary effect from (Ice Beam)",
+      -4.5459,
+      -4.5,
+      -9.0459
+    ],
+    [
+      73,
+      "Nidoqueen",
+      "Mon hit by (Flamethrower) ",
+      -9.0459,
+      -0.0098,
+      -9.0556
+    ],
+    [
+      73,
+      "Nidoqueen",
+      "Mon was not crit by (Flamethrower)",
+      -9.0556,
+      0.2319,
+      -8.8237
+    ],
+    [
+      73,
+      "Nidoqueen",
+      "Mon avoided secondary effect from (Flamethrower)",
+      -8.8237,
+      0.1,
+      -8.7237
+    ],
+    [
+      79,
+      "Nidoqueen",
+      "Mon hit by (Fire Blast) ",
+      -0.4258,
+      -0.3848,
+      -0.8105
+    ],
+    [
+      79,
+      "Nidoqueen",
+      "Mon was not crit by (Fire Blast)",
+      -0.8105,
+      0.2319,
+      -0.5786
+    ],
+    [
+      79,
+      "Nidoqueen",
+      "Mon avoided secondary effect from (Fire Blast)",
+      -0.5786,
+      0.3,
+      -0.2786
+    ],
+    [
+      79,
+      "Nidoqueen",
+      "Mon did not miss (Earthquake)",
+      -0.2786,
+      0.0098,
+      -0.2689
+    ],
+    [
+      79,
+      "Nidoqueen",
+      "Mon did not land a crit with (Earthquake)",
+      -0.2689,
+      -0.1855,
+      -0.4544
+    ],
+    [
+      80,
+      "Nidoqueen",
+      "Mon did not miss (Earthquake)",
+      -0.4544,
+      0.0098,
+      -0.4447
+    ],
+    [
+      80,
+      "Nidoqueen",
+      "Mon hit by (Earthquake) ",
+      -8.7237,
+      -0.0098,
+      -8.7334
+    ],
+    [
+      80,
+      "Nidoqueen",
+      "Mon did not land a crit with (Earthquake)",
+      -0.4447,
+      -0.1855,
+      -0.6302
+    ],
+    [
+      80,
+      "Nidoqueen",
+      "Mon was not crit by (Earthquake)",
+      -8.7334,
+      0.1855,
+      -8.5479
+    ],
+    [
+      1,
+      "Porygon",
+      "Mon hit by (Thunder Wave) ",
+      0.0,
+      -0.0098,
+      -0.0098
+    ],
+    [
+      1,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      -0.0098,
+      0.375,
+      0.3652
+    ],
+    [
+      1,
+      "Porygon",
+      "Mon did not miss (Thunder Wave)",
+      0.3652,
+      0.0098,
+      0.375
+    ],
+    [
+      2,
+      "Porygon",
+      "Opponent Broke Through Paralysis",
+      0.375,
+      -0.375,
+      0.0
+    ],
+    [
+      2,
+      "Porygon",
+      "Mon hit by (Surf) ",
+      0.0,
+      -0.0098,
+      -0.0098
+    ],
+    [
+      2,
+      "Porygon",
+      "Mon was not crit by (Surf)",
+      -0.0098,
+      0.2075,
+      0.1978
+    ],
+    [
+      2,
+      "Porygon",
+      "Mon Could Not Move Due to Paralysis",
+      0.1978,
+      -1.125,
+      -0.9272
+    ],
+    [
+      3,
+      "Porygon",
+      "Opponent Broke Through Paralysis",
+      -0.9272,
+      -0.375,
+      -1.3022
+    ],
+    [
+      3,
+      "Porygon",
+      "Mon hit by (Surf) ",
+      -1.3022,
+      -0.0098,
+      -1.312
+    ],
+    [
+      3,
+      "Porygon",
+      "Mon was not crit by (Surf)",
+      -1.312,
+      0.2075,
+      -1.1045
+    ],
+    [
+      3,
+      "Porygon",
+      "Mon Could Not Move Due to Paralysis",
+      -1.1045,
+      -1.125,
+      -2.2295
+    ],
+    [
+      4,
+      "Porygon",
+      "Opponent Broke Through Paralysis",
+      -2.2295,
+      -0.375,
+      -2.6045
+    ],
+    [
+      4,
+      "Porygon",
+      "Mon hit by (Surf) ",
+      -2.6045,
+      -0.0098,
+      -2.6142
+    ],
+    [
+      4,
+      "Porygon",
+      "Mon was not crit by (Surf)",
+      -2.6142,
+      0.2075,
+      -2.4067
+    ],
+    [
+      4,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      -2.4067,
+      0.375,
+      -2.0317
+    ],
+    [
+      5,
+      "Porygon",
+      "Opponent Could Not Move Due to Paralysis",
+      -2.0317,
+      1.125,
+      -0.9067
+    ],
+    [
+      5,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      -0.9067,
+      0.375,
+      -0.5317
+    ],
+    [
+      6,
+      "Porygon",
+      "Opponent Could Not Move Due to Paralysis",
+      -0.5317,
+      1.125,
+      0.5933
+    ],
+    [
+      6,
+      "Porygon",
+      "Mon Could Not Move Due to Paralysis",
+      0.5933,
+      -1.125,
+      -0.5317
+    ],
+    [
+      7,
+      "Porygon",
+      "Opponent Could Not Move Due to Paralysis",
+      -0.5317,
+      1.125,
+      0.5933
+    ],
+    [
+      7,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      0.5933,
+      0.375,
+      0.9683
+    ],
+    [
+      7,
+      "Porygon",
+      "Mon did not miss (Psychic)",
+      0.9683,
+      0.0098,
+      0.9781
+    ],
+    [
+      7,
+      "Porygon",
+      "Mon did not land a crit with (Psychic)",
+      0.9781,
+      -0.0977,
+      0.8804
+    ],
+    [
+      7,
+      "Porygon",
+      "Mon landed secondary effect from (Psychic)",
+      0.8804,
+      0.67,
+      1.5504
+    ],
+    [
+      8,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      1.5504,
+      0.375,
+      1.9254
+    ],
+    [
+      9,
+      "Porygon",
+      "Mon hit by (Wrap) ",
+      1.9254,
+      -0.3848,
+      1.5407
+    ],
+    [
+      9,
+      "Porygon",
+      "Mon was not crit by (Wrap)",
+      1.5407,
+      0.1709,
+      1.7116
+    ],
+    [
+      13,
+      "Porygon",
+      "Mon hit by (Wrap) ",
+      1.7116,
+      -0.3848,
+      1.3268
+    ],
+    [
+      13,
+      "Porygon",
+      "Mon was not crit by (Wrap)",
+      1.3268,
+      0.1709,
+      1.4977
+    ],
+    [
+      15,
+      "Porygon",
+      "Mon hit by (Wrap) ",
+      1.4977,
+      -0.3848,
+      1.1129
+    ],
+    [
+      15,
+      "Porygon",
+      "Mon was not crit by (Wrap)",
+      1.1129,
+      0.1709,
+      1.2838
+    ],
+    [
+      17,
+      "Porygon",
+      "Mon hit by (Wrap) ",
+      1.2838,
+      -0.3848,
+      0.8991
+    ],
+    [
+      17,
+      "Porygon",
+      "Mon was not crit by (Wrap)",
+      0.8991,
+      0.1709,
+      1.07
+    ],
+    [
+      20,
+      "Porygon",
+      "Mon hit by (Wrap) ",
+      1.07,
+      -0.3848,
+      0.6852
+    ],
+    [
+      20,
+      "Porygon",
+      "Mon was hit by a critical hit",
+      0.6852,
+      -1.0791,
+      -0.3939
+    ],
+    [
+      27,
+      "Porygon",
+      "Mon hit by (Psychic) ",
+      -0.3939,
+      -0.0098,
+      -0.4036
+    ],
+    [
+      27,
+      "Porygon",
+      "Mon was not crit by (Psychic)",
+      -0.4036,
+      0.1025,
+      -0.3011
+    ],
+    [
+      27,
+      "Porygon",
+      "Mon avoided secondary effect from (Psychic)",
+      -0.3011,
+      0.33,
+      0.0289
+    ],
+    [
+      27,
+      "Porygon",
+      "Mon Broke Through Paralysis",
+      0.0289,
+      0.375,
+      0.4039
+    ],
+    [
+      27,
+      "Porygon",
+      "Mon did not miss (Thunder Wave)",
+      0.4039,
+      0.0098,
+      0.4137
+    ],
+    [
+      28,
+      "Porygon",
+      "Opponent Broke Through Paralysis",
+      0.4137,
+      -0.375,
+      0.0387
+    ],
+    [
+      28,
+      "Porygon",
+      "Mon hit by (Psychic) ",
+      0.0387,
+      -0.0098,
+      0.0289
+    ],
+    [
+      28,
+      "Porygon",
+      "Mon was not crit by (Psychic)",
+      0.0289,
+      0.1025,
+      0.1315
+    ],
+    [
+      32,
+      "Seaking",
+      "Mon hit by (Blizzard) ",
+      0.0,
+      -0.2598,
+      -0.2598
+    ],
+    [
+      32,
+      "Seaking",
+      "Mon was not crit by (Blizzard)",
+      -0.2598,
+      0.1855,
+      -0.0742
+    ],
+    [
+      32,
+      "Seaking",
+      "Mon avoided secondary effect from (Blizzard)",
+      -0.0742,
+      0.5,
+      0.4258
+    ],
+    [
+      33,
+      "Seaking",
+      "Mon did not miss (Surf)",
+      0.4258,
+      0.0098,
+      0.4355
+    ],
+    [
+      33,
+      "Seaking",
+      "Mon did not land a crit with (Surf)",
+      0.4355,
+      -0.166,
+      0.2695
+    ],
+    [
+      34,
+      "Seaking",
+      "Mon hit by (Thunder Wave) ",
+      0.2695,
+      -0.0098,
+      0.2598
+    ],
+    [
+      34,
+      "Seaking",
+      "Mon Could Not Move Due to Paralysis",
+      0.2598,
+      -1.125,
+      -0.8652
+    ],
+    [
+      35,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -0.8652,
+      -0.3848,
+      -1.25
+    ],
+    [
+      35,
+      "Seaking",
+      "Mon was hit by a critical hit",
+      -1.25,
+      -1.0791,
+      -2.3291
+    ],
+    [
+      37,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -2.3291,
+      -0.3848,
+      -2.7138
+    ],
+    [
+      37,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -2.7138,
+      0.1709,
+      -2.5429
+    ],
+    [
+      39,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -2.5429,
+      -0.3848,
+      -2.9277
+    ],
+    [
+      39,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -2.9277,
+      0.1709,
+      -2.7568
+    ],
+    [
+      44,
+      "Seaking",
+      "Mon hit by (Ice Beam) ",
+      -2.7568,
+      -0.0098,
+      -2.7665
+    ],
+    [
+      44,
+      "Seaking",
+      "Mon was not crit by (Ice Beam)",
+      -2.7665,
+      0.1709,
+      -2.5956
+    ],
+    [
+      45,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -2.5956,
+      -0.3848,
+      -2.9804
+    ],
+    [
+      45,
+      "Seaking",
+      "Mon was hit by a critical hit",
+      -2.9804,
+      -1.0791,
+      -4.0595
+    ],
+    [
+      48,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -4.0595,
+      -0.3848,
+      -4.4442
+    ],
+    [
+      48,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -4.4442,
+      0.1709,
+      -4.2733
+    ],
+    [
+      50,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -4.2733,
+      -0.3848,
+      -4.6581
+    ],
+    [
+      50,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -4.6581,
+      0.1709,
+      -4.4872
+    ],
+    [
+      52,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -4.4872,
+      -0.3848,
+      -4.8719
+    ],
+    [
+      52,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -4.8719,
+      0.1709,
+      -4.701
+    ],
+    [
+      54,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -4.701,
+      -0.3848,
+      -5.0858
+    ],
+    [
+      54,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -5.0858,
+      0.1709,
+      -4.9149
+    ],
+    [
+      56,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -4.9149,
+      -0.3848,
+      -5.2996
+    ],
+    [
+      56,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -5.2996,
+      0.1709,
+      -5.1287
+    ],
+    [
+      58,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -5.1287,
+      -0.3848,
+      -5.5135
+    ],
+    [
+      58,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -5.5135,
+      0.1709,
+      -5.3426
+    ],
+    [
+      60,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -5.3426,
+      -0.3848,
+      -5.7273
+    ],
+    [
+      60,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -5.7273,
+      0.1709,
+      -5.5564
+    ],
+    [
+      62,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -5.5564,
+      -0.3848,
+      -5.9412
+    ],
+    [
+      62,
+      "Seaking",
+      "Mon was hit by a critical hit",
+      -5.9412,
+      -1.0791,
+      -7.0203
+    ],
+    [
+      64,
+      "Seaking",
+      "Mon hit by (Wrap) ",
+      -7.0203,
+      -0.3848,
+      -7.405
+    ],
+    [
+      64,
+      "Seaking",
+      "Mon was not crit by (Wrap)",
+      -7.405,
+      0.1709,
+      -7.2341
+    ],
+    [
+      74,
+      "Seaking",
+      "Mon hit by (Flamethrower) ",
+      -7.2341,
+      -0.0098,
+      -7.2439
+    ],
+    [
+      74,
+      "Seaking",
+      "Mon was not crit by (Flamethrower)",
+      -7.2439,
+      0.2319,
+      -7.012
+    ],
+    [
+      1,
+      "Staryu",
+      "Mon did not miss (Thunder Wave)",
+      0.0,
+      0.0098,
+      0.0098
+    ],
+    [
+      1,
+      "Staryu",
+      "Opponent Broke Through Paralysis",
+      0.0098,
+      -0.375,
+      -0.3652
+    ],
+    [
+      1,
+      "Staryu",
+      "Mon hit by (Thunder Wave) ",
+      -0.3652,
+      -0.0098,
+      -0.375
+    ],
+    [
+      2,
+      "Staryu",
+      "Mon Broke Through Paralysis",
+      -0.375,
+      0.375,
+      0.0
+    ],
+    [
+      2,
+      "Staryu",
+      "Mon did not miss (Surf)",
+      0.0,
+      0.0098,
+      0.0098
+    ],
+    [
+      2,
+      "Staryu",
+      "Mon did not land a crit with (Surf)",
+      0.0098,
+      -0.2075,
+      -0.1978
+    ],
+    [
+      2,
+      "Staryu",
+      "Opponent Could Not Move Due to Paralysis",
+      -0.1978,
+      1.125,
+      0.9272
+    ],
+    [
+      3,
+      "Staryu",
+      "Mon Broke Through Paralysis",
+      0.9272,
+      0.375,
+      1.3022
+    ],
+    [
+      3,
+      "Staryu",
+      "Mon did not miss (Surf)",
+      1.3022,
+      0.0098,
+      1.312
+    ],
+    [
+      3,
+      "Staryu",
+      "Mon did not land a crit with (Surf)",
+      1.312,
+      -0.2075,
+      1.1045
+    ],
+    [
+      3,
+      "Staryu",
+      "Opponent Could Not Move Due to Paralysis",
+      1.1045,
+      1.125,
+      2.2295
+    ],
+    [
+      4,
+      "Staryu",
+      "Mon Broke Through Paralysis",
+      2.2295,
+      0.375,
+      2.6045
+    ],
+    [
+      4,
+      "Staryu",
+      "Mon did not miss (Surf)",
+      2.6045,
+      0.0098,
+      2.6142
+    ],
+    [
+      4,
+      "Staryu",
+      "Mon did not land a crit with (Surf)",
+      2.6142,
+      -0.2075,
+      2.4067
+    ],
+    [
+      4,
+      "Staryu",
+      "Opponent Broke Through Paralysis",
+      2.4067,
+      -0.375,
+      2.0317
+    ],
+    [
+      5,
+      "Staryu",
+      "Mon Could Not Move Due to Paralysis",
+      2.0317,
+      -1.125,
+      0.9067
+    ],
+    [
+      5,
+      "Staryu",
+      "Opponent Broke Through Paralysis",
+      0.9067,
+      -0.375,
+      0.5317
+    ],
+    [
+      6,
+      "Staryu",
+      "Mon Could Not Move Due to Paralysis",
+      0.5317,
+      -1.125,
+      -0.5933
+    ],
+    [
+      6,
+      "Staryu",
+      "Opponent Could Not Move Due to Paralysis",
+      -0.5933,
+      1.125,
+      0.5317
+    ],
+    [
+      7,
+      "Staryu",
+      "Mon Could Not Move Due to Paralysis",
+      0.5317,
+      -1.125,
+      -0.5933
+    ],
+    [
+      7,
+      "Staryu",
+      "Opponent Broke Through Paralysis",
+      -0.5933,
+      -0.375,
+      -0.9683
+    ],
+    [
+      7,
+      "Staryu",
+      "Mon hit by (Psychic) ",
+      -0.9683,
+      -0.0098,
+      -0.9781
+    ],
+    [
+      7,
+      "Staryu",
+      "Mon was not crit by (Psychic)",
+      -0.9781,
+      0.0977,
+      -0.8804
+    ],
+    [
+      7,
+      "Staryu",
+      "Mon was hit with secondary effect from (Psychic)",
+      -0.8804,
+      -0.67,
+      -1.5504
+    ],
+    [
+      24,
+      "Staryu",
+      "Mon hit by (Earthquake) ",
+      -1.5504,
+      -0.0098,
+      -1.5602
+    ],
+    [
+      24,
+      "Staryu",
+      "Mon was not crit by (Earthquake)",
+      -1.5602,
+      0.1855,
+      -1.3746
+    ],
+    [
+      25,
+      "Staryu",
+      "Mon hit by (Thunderbolt) ",
+      -1.3746,
+      -0.0098,
+      -1.3844
+    ],
+    [
+      25,
+      "Staryu",
+      "Mon was hit by a critical hit",
+      -1.3844,
+      -1.0645,
+      -2.4488
+    ],
+    [
+      47,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      0.0,
+      -0.3848,
+      -0.3848
+    ],
+    [
+      47,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -0.3848,
+      0.1709,
+      -0.2139
+    ],
+    [
+      49,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -0.2139,
+      -0.3848,
+      -0.5986
+    ],
+    [
+      49,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -0.5986,
+      0.1709,
+      -0.4277
+    ],
+    [
+      51,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -0.4277,
+      -0.3848,
+      -0.8125
+    ],
+    [
+      51,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -0.8125,
+      0.1709,
+      -0.6416
+    ],
+    [
+      53,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -0.6416,
+      -0.3848,
+      -1.0263
+    ],
+    [
+      53,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -1.0263,
+      0.1709,
+      -0.8554
+    ],
+    [
+      55,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -0.8554,
+      -0.3848,
+      -1.2402
+    ],
+    [
+      55,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -1.2402,
+      0.1709,
+      -1.0693
+    ],
+    [
+      57,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -1.0693,
+      -0.3848,
+      -1.454
+    ],
+    [
+      57,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -1.454,
+      0.1709,
+      -1.2831
+    ],
+    [
+      59,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -1.2831,
+      -0.3848,
+      -1.6679
+    ],
+    [
+      59,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -1.6679,
+      0.1709,
+      -1.497
+    ],
+    [
+      61,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -1.497,
+      -0.3848,
+      -1.8817
+    ],
+    [
+      61,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -1.8817,
+      0.1709,
+      -1.7108
+    ],
+    [
+      63,
+      "Vileplume",
+      "Mon hit by (Wrap) ",
+      -1.7108,
+      -0.3848,
+      -2.0956
+    ],
+    [
+      63,
+      "Vileplume",
+      "Mon was not crit by (Wrap)",
+      -2.0956,
+      0.1709,
+      -1.9247
+    ],
+    [
+      66,
+      "Vileplume",
+      "Mon hit by (Ice Beam) ",
+      -1.9247,
+      -0.0098,
+      -1.9344
+    ],
+    [
+      66,
+      "Vileplume",
+      "Mon was not crit by (Ice Beam)",
+      -1.9344,
+      0.1709,
+      -1.7635
+    ],
+    [
+      67,
+      "Vileplume",
+      "Mon hit by (Ice Beam) ",
+      -1.7635,
+      -0.0098,
+      -1.7733
+    ],
+    [
+      67,
+      "Vileplume",
+      "Mon was not crit by (Ice Beam)",
+      -1.7733,
+      0.1709,
+      -1.6024
+    ],
+    [
+      67,
+      "Vileplume",
+      "Mon did not miss (Sleep Powder)",
+      -1.6024,
+      0.6348,
+      -0.9676
+    ],
+    [
+      68,
+      "Vileplume",
+      "Mon did not miss (Stun Spore)",
+      -0.9676,
+      0.6348,
+      -0.3329
+    ],
+    [
+      69,
+      "Vileplume",
+      "Mon did not miss (Hyper Beam)",
+      -0.3329,
+      0.2598,
+      -0.0731
+    ],
+    [
+      69,
+      "Vileplume",
+      "Mon did not land a crit with (Hyper Beam)",
+      -0.0731,
+      -0.1221,
+      -0.1952
+    ],
+    [
+      69,
+      "Vileplume",
+      "Opponent Broke Through Paralysis",
+      -0.1952,
+      -0.375,
+      -0.5702
+    ],
+    [
+      70,
+      "Vileplume",
+      "Opponent Could Not Move Due to Paralysis",
+      -0.5702,
+      1.125,
+      0.5548
+    ],
+    [
+      71,
+      "Vileplume",
+      "Opponent Could Not Move Due to Paralysis",
+      0.5548,
+      1.125,
+      1.6798
+    ],
+    [
+      71,
+      "Vileplume",
+      "Mon did not miss (Hyper Beam)",
+      1.6798,
+      0.2598,
+      1.9396
+    ],
+    [
+      71,
+      "Vileplume",
+      "Mon landed a critical hit",
+      1.9396,
+      1.1279,
+      3.0675
+    ],
+    [
+      72,
+      "Vileplume",
+      "Mon hit by (Body Slam) ",
+      3.0675,
+      -0.0098,
+      3.0577
+    ],
+    [
+      72,
+      "Vileplume",
+      "Mon was not crit by (Body Slam)",
+      3.0577,
+      0.2319,
+      3.2897
+    ]
+  ],
+  "errormessage": []
+}
