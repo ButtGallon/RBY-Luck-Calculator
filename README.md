@@ -26,5 +26,6 @@ Things the calculator doesn't take into account (yet)
   - Sleep turn luck (1-7 turns)
   - Confusion turn luck (1-3 turns)
   - Multi-hit move luck (Pin Missile 2-5 hits, etc)
+  - Still considers an attempted stat drop unlucky even if the stat is already at -6
 
  If you have any questions/advice/bugs, feel free to reach out to ButtGallon on Pokemon Showdown & Smogon Forums (https://www.smogon.com/forums/members/buttgallon.682693/), or kevo411@verizon.net
