@@ -199,5 +199,3 @@ def print_results(url):
 if __name__ == '__main__':
 
     print_results('https://replay.pokemonshowdown.com/gen1zu-2180241963')
-    print_results('https://replay.pokemonshowdown.com/gen1zu-2180248952')
-    print_results('https://replay.pokemonshowdown.com/gen1zu-2180256677')
