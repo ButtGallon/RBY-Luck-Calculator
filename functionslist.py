@@ -10,8 +10,8 @@ def activate_function(line, parsedlogfile, results):
         elif defendingteam == "p2a":
             defender = roster_search(defendingteam, results['team2']['activemon'], results)
             attacker = roster_search("p1a", results['team1']['activemon'], results)
-        results = luckappend(line, results, attacker, f"Mon is confused", -50)
-        results = luckappend(line, results, defender, f"Opponent is confused", 50)
+        results = luckappend(line, results, attacker, f"Opponent is confused", -100)
+        results = luckappend(line, results, defender, f"Mon is confused", 100)
     return line, parsedlogfile, results
 
 
@@ -496,7 +496,7 @@ def poke_function(line, parsedlogfile, results):
     adjustedmon = line[3].split("|")[1]
     if line[3].split("|", 1)[0] == "p1":
         results['team1']['roster'].append({
-            'pokemon': line[3].split("|")[1], 'startform': adjustedmon, 'nickname': adjustedmon,
+            'pokemon': line[3].split("|")[1], 'startform': adjustedmon, 'nickname': adjustedmon, 'coach': results['team1']['coach'],
             'kills': 0, 'deaths': 0, 'causeofdeath': None, 'support': 0, 'damagedone': 0, 'hphealed': 0, 'luck': 0,
             'remaininghealth': 100, 'lines': [],
             'confusion': None, 'psn': None, 'brn': None, 'par': None, 'frz': None, 'tox': None, 'slp': None,
@@ -505,7 +505,7 @@ def poke_function(line, parsedlogfile, results):
         })
     elif line[3].split("|", 1)[0] == "p2":
         results['team2']['roster'].append({
-            'pokemon': line[3].split("|")[1], 'startform': adjustedmon, 'nickname': adjustedmon,
+            'pokemon': line[3].split("|")[1], 'startform': adjustedmon, 'nickname': adjustedmon, 'coach': results['team2']['coach'],
             'kills': 0, 'deaths': 0, 'causeofdeath': None, 'support': 0, 'damagedone': 0, 'hphealed': 0, 'luck': 0,
             'remaininghealth': 100, 'lines': [],
             'confusion': None, 'psn': None, 'brn': None, 'par': None, 'frz': None, 'tox': None, 'slp': None,
@@ -859,7 +859,7 @@ def team_search(parsedlogfile, results):
             nickname = line[3].split("|")[0].split(": ", )[1]
             if len(results['team1']['roster']) == 0 or pokemon_in_team('team1', adjustedmon, results) == False:
                 results['team1']['roster'].append({
-                    'pokemon': adjustedmon, 'startform': adjustedmon, 'nickname': nickname,
+                    'pokemon': adjustedmon, 'startform': adjustedmon, 'nickname': nickname, 'coach': results['team1']['coach'],
                     'kills': 0, 'deaths': 0, 'causeofdeath': None, 'support': 0, 'damagedone': 0, 'hphealed': 0,
                     'luck': 0,
                     'remaininghealth': 100, 'lines': [],
@@ -872,7 +872,7 @@ def team_search(parsedlogfile, results):
             nickname = line[3].split("|")[0].split(": ", )[1]
             if len(results['team2']['roster']) == 0 or pokemon_in_team('team2', adjustedmon, results) == False:
                 results['team2']['roster'].append({
-                    'pokemon': adjustedmon, 'startform': adjustedmon, 'nickname': nickname,
+                    'pokemon': adjustedmon, 'startform': adjustedmon, 'nickname': nickname, 'coach': results['team2']['coach'],
                     'kills': 0, 'deaths': 0, 'causeofdeath': None, 'support': 0, 'damagedone': 0, 'hphealed': 0,
                     'luck': 0,
                     'remaininghealth': 100, 'lines': [],
