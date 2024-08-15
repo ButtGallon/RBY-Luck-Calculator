@@ -16,6 +16,7 @@ Things the calculator already takes into account
   - Secondary effect chance
   - Wrap partial trapping only counting as one move use
   - Secondary effect immunity by type (no body slam para for normals, no burn chance for fire types, etc)
+  - Secondary effect chances being disregarded for attacks on substitutes
   - Sleep Clause & Freeze Clause
 
 Things the calculator doesn't take into account (yet)
@@ -27,7 +28,6 @@ Things the calculator doesn't take into account (yet)
   - Confusion turn luck (1-3 turns)
   - Multi-hit move luck (Pin Missile 2-5 hits, etc)
   - Still considers an attempted stat drop unlucky even if the stat is already at -6
-  - Secondary effect chances on substitutes are still considered possible
   - Attempted sleep sacs (ex: switching in a near-dead rhydon to eat a sleep should not be considered as unlucky as landing a sleep on a healthy tauros)
 
  If you have any questions/advice/bugs, feel free to reach out to ButtGallon on Pokemon Showdown & Smogon Forums (https://www.smogon.com/forums/members/buttgallon.682693/), or kevo411@verizon.net
