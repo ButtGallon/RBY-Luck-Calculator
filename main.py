@@ -1,15 +1,7 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import requests
 from luckfunctions import *
 from functionslist import *
 import json
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 def parse_log(replayURL):
     logfile = requests.get(replayURL+'.log').text.splitlines()
@@ -182,46 +174,30 @@ def replay_parse_switch(argument, parsedlogfile, results):
     # Execute the function
     return func(argument, parsedlogfile, results)
 
+def print_results(url):
+    parse_log(url)
+    print(str(json.load(open('results.json'))['team1']['coach']) + " vs " + str(
+        json.load(open('results.json'))['team2']['coach']))
+    if json.load(open('results.json'))['team1']['luck'] >= 0:
+        luckyteam = 'team1'
+    else:
+        luckyteam = 'team2'
+    print("Overall Luck Score: " + str(json.load(open('results.json'))[luckyteam]['luck']) + " in favor of " +
+          json.load(open('results.json'))[luckyteam]['coach'])
+    print('')
+    results = json.load(open('results.json'))
+    for mon in results['team1']['roster']:
+        print(json.load(open('results.json'))['team1']['coach'] + '\'s ' + mon['pokemon'] + ' luck value is: ' + str(
+            mon['luck']))
+    print('')
+    for mon in results['team2']['roster']:
+        print(json.load(open('results.json'))['team2']['coach'] + '\'s ' + mon['pokemon'] + ' luck value is: ' + str(
+            mon['luck']))
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    # parse_log('https://replay.pokemonshowdown.com/gen1ou-2164049310')  # Gen 1 OU (Ortheore Game 1)
-    # print("Ortheore vs ButtGallon Game 1: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1ou-2164054535')  # Gen 1 OU (Ortheore Game 2)
-    # print("Ortheore vs ButtGallon Game 2: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1ou-2164060370')  # Gen 1 OU (Ortheore Game 3)
-    # print("Ortheore vs ButtGallon Game 3: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1ou-782525')  # Gen 1 OU (Ortheore Game 1)
-    # print("Ortheore vs nightcore Game 1: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1ou-782526')  # Gen 1 OU (Ortheore Game 2)
-    # print("Ortheore vs nightcore Game 2: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1ou-783502')  # Gen 1 OU (Ortheore Game 1)
-    # print("Ortheore vs Quarante8 Game 1: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1ou-783503')  # Gen 1 OU (Ortheore Game 2)
-    # print("Ortheore vs Quarante8 Game 2: " + str(json.load(open('results.json'))['team2']['luck']))
-
-    # parse_log('https://replay.pokemonshowdown.com/gen1zu-2160765062')  # Gen 1 OU (Ortheore Game 1)
-    # print("torkonpeter vs bandoodee Game 1: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1zu-2160759158')  # Gen 1 OU (Ortheore Game 2)
-    # print("torkonpeter vs bandoodee Game 2: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1zu-2160761385')  # Gen 1 OU (Ortheore Game 3)
-    # print("torkonpeter vs bandoodee Game 3: " + str(json.load(open('results.json'))['team1']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1zu-2163811241')  # Gen 1 OU (Ortheore Game 1)
-    # print("torkonpeter vs donkeykongthe3rd Game 1: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/gen1zu-2163813294')  # Gen 1 OU (Ortheore Game 2)
-    # print("torkonpeter vs donkeykongthe3rd Game 2: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1zu-782188')  # Gen 1 OU (Ortheore Game 1)
-    # print("torkonpeter vs Maris Bonibell Game 1: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1zu-782190')  # Gen 1 OU (Ortheore Game 2)
-    # print("torkonpeter vs Maris Bonibell Game 2: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1zu-783662')  # Gen 1 OU (Ortheore Game 1)
-    # print("torkonpeter vs sweet sablette Game 1: " + str(json.load(open('results.json'))['team2']['luck']))
-    # parse_log('https://replay.pokemonshowdown.com/smogtours-gen1zu-783663')  # Gen 1 OU (Ortheore Game 2)
-    # print("torkonpeter vs sweet sablette Game 2: " + str(json.load(open('results.json'))['team1']['luck']))
-
-    parse_log('https://replay.pokemonshowdown.com/gen1pu-2176734361')
-    print("Buttgallon vs pkmnmastershane (Ladder): " + str(json.load(open('results.json'))['team2']['luck']))
-    results = json.load(open('results.json'))
-    for mon in results['team1']['roster']:
-        print('Team 1 mon ' + mon['pokemon'] + ' luck value is: ' + str(mon['luck']))
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print_results('https://replay.pokemonshowdown.com/gen1zu-2180241963')
+    print_results('https://replay.pokemonshowdown.com/gen1zu-2180248952')
+    print_results('https://replay.pokemonshowdown.com/gen1zu-2180256677')
