@@ -31,11 +31,10 @@ def luckappend(line,results,mon,event,luckchange):
         if event.find('In Confusion') > -1:
             eventmodifier = 2
             break
-    #apppend luck
     startluck = mon['luck'] / 100
     mon['luck'] += luckchange * eventmodifier
     if luckchange!=0:
-        results['luckcatalog'].append([line[1],mon['pokemon'],event,round(startluck, 4),round(luckchange*eventmodifier/100, 4),round(mon['luck']/100, 4)])
+        results['luckcatalog'].append([line[1],mon['pokemon'] + ' (' + mon['coach'] + ')',event,round(startluck, 4),round(luckchange*eventmodifier/100, 4),round(mon['luck']/100, 4)])
     return results
 
 def miss_function(line,attacker,target,move,moveaccuracy, results):
@@ -93,6 +92,7 @@ def secondary_check(attacker,target,move,line,results,parsedlogfile,attackingtea
     move_=moveswithsecondaryeffect[move]
     turndata=list(filter(lambda x: x[1] == line[1] and x[0] > line[0], parsedlogfile))
     secondaryEffectLanded = False
+    hittingsubstitute = False
     for line_ in turndata:
         if line_[2]==move_[0] and line_[3].find(move_[1])>-1 and line_[3].find(move_[2])>-1:
             #results['significantevents'].append([line[1],f"LUCK: {move_[4]}"])
@@ -103,6 +103,8 @@ def secondary_check(attacker,target,move,line,results,parsedlogfile,attackingtea
                 attacker['moves'][move]['secondaryeffects']+=1
             if move_[0]=="status" or move_[0]=="start":
                 target[move_[1]]=attacker['nickname']
+        if line_[3].find('|Substitute') > -1:
+            hittingsubstitute = True
     freezeclause = False
     if attackingteam == 'p1a':
         defendingteam = 'team2'
@@ -111,7 +113,7 @@ def secondary_check(attacker,target,move,line,results,parsedlogfile,attackingtea
     for mon in results[defendingteam]['roster']:
         if mon['frz'] != None:
             freezeclause = True
-    if secondaryEffectLanded == False and (move_[1] != 'frz' or freezeclause == False):
+    if secondaryEffectLanded == False and  hittingsubstitute == False and (move_[1] != 'frz' or freezeclause == False):
         results = luckappend(line, results, attacker,f"Mon did not land secondary effect from ({move})", -move_[3]*100)
         results = luckappend(line, results, target,f"Mon avoided secondary effect from ({move})", move_[3]*100)
     return results
