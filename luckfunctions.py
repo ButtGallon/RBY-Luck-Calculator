@@ -14,22 +14,22 @@ def luckappend(line,results,mon,event,luckchange):
             if info['Effect'] == 'frz':
                 eventmodifier = 5
             if info['Effect'] == 'par':
-                eventmodifier = 2
+                eventmodifier = 1
             if info['Effect'] == 'brn':
                 eventmodifier = 1
             if info['Effect'] == 'psn':
                 eventmodifier = 0.5
         if event.find('crit') > -1 or event.find('Crit') > -1:
-            eventmodifier = 1.25
+            eventmodifier = 1
             break
         if event.find('miss') > -1 or event.find('hit by') > -1:
-            eventmodifier = 2.5
+            eventmodifier = 2
             break
         if event.find('Paralysis') > -1:
             eventmodifier = 1.5
             break
         if event.find('In Confusion') > -1:
-            eventmodifier = 1.5
+            eventmodifier = 2
             break
     #apppend luck
     startluck = mon['luck'] / 100
