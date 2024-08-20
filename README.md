@@ -28,6 +28,7 @@ Things the calculator doesn't take into account (yet)
   - Sleep turn luck (1-7 turns)
   - Confusion turn luck (1-3 turns)
   - Multi-hit move luck (Pin Missile 2-5 hits, etc)
+  - Status moves missing when the target would have been unaffected anyway
   - Still considers an attempted stat drop unlucky even if the stat is already at -6
   - Attempted sleep sacs (ex: switching in a near-dead rhydon to eat a sleep should not be considered as unlucky as landing a sleep on a healthy tauros)
 
