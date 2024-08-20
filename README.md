@@ -21,6 +21,7 @@ Things the calculator already takes into account
 
 Things the calculator doesn't take into account (yet)
   - Damage ranges
+  - Speed Ties
   - Still considers a crit lucky even if it would have killed without the crit
   - Checking if crits actually decrease damage done (due to stat boosts/drops)
   - Wrap turn luck (2-5 turns)
