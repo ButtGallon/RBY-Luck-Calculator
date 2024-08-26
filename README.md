@@ -6,7 +6,7 @@ To use this program:
   - (if you don't have a Python IDE, you can download the Anaconda launcher here (https://www.anaconda.com/download), which prepares several IDEs for your machine.
   - My go-to IDE of the ones available through Anaconda is PyCharm Community Edition
 3) At the bottom of main.py, inside an "if __name__ == '__main__':" block, replace the URL inside the "print_results()" line with the URL of the replay you want to analyze.
-4) Run main.py and the results will be printed to the console. If you want to dig deeper into what contributed to the luck scores, the full luck calculation logs are saved at the bottom of the results.json file.
+4) Run main.py and the results will be printed to the console, and a graph will be generated in a separate window. If you want to dig deeper into what contributed to the luck scores, the full luck calculation logs are saved at the bottom of the results.json file.
 
 Things the calculator already takes into account
   - Confusion luck
