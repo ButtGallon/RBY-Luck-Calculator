@@ -14,7 +14,6 @@ Things the calculator already takes into account
   - Crit luck (correctly based on speed stat)
   - Miss luck (includes 1/256 miss chance)
   - Secondary effect chance
-  - Wrap partial trapping only counting as one move use
   - Secondary effect immunity by type (no body slam para for normals, no burn chance for fire types, etc)
   - Secondary effect chances being disregarded for attacks on substitutes
   - Sleep Clause & Freeze Clause
