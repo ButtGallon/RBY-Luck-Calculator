@@ -11,20 +11,19 @@ To use this program:
 Things the calculator already takes into account
   - Confusion luck
   - Paralysis luck
-  - Crit luck (correctly based on speed stat)
+  - Sleep turn luck (1-7 turns)
+  - Crit luck (correctly based on speed stat, and considers crits unlucky if stat boosts/drops cause them to do less damage)
   - Miss luck (includes 1/256 miss chance)
   - Secondary effect chance
   - Secondary effect immunity by type (no body slam para for normals, no burn chance for fire types, etc)
   - Secondary effect chances being disregarded for attacks on substitutes
   - Sleep Clause & Freeze Clause
+  - Damage ranges
 
 Things the calculator doesn't take into account (yet)
-  - Damage ranges
   - Speed Ties
   - Still considers a crit lucky even if it would have killed without the crit
-  - Checking if crits actually decrease damage done (due to stat boosts/drops)
   - Wrap turn luck (2-5 turns)
-  - Sleep turn luck (1-7 turns)
   - Confusion turn luck (1-3 turns)
   - Multi-hit move luck (Pin Missile 2-5 hits, etc)
   - Status moves missing when the target would have been unaffected anyway
