@@ -30,4 +30,4 @@ Things the calculator doesn't take into account (yet)
   - Still considers an attempted stat drop unlucky even if the stat is already at -6
   - Attempted sleep sacs (ex: switching in a near-dead rhydon to eat a sleep should not be considered as unlucky as landing a sleep on a healthy tauros)
 
- If you have any questions/advice/bugs, feel free to reach out to ButtGallon on Pokemon Showdown & Smogon Forums (https://www.smogon.com/forums/members/buttgallon.682693/), or kevo411@verizon.net
+ If you have any questions/advice/bugs, feel free to reach out to ButtGallon on Pokemon Showdown & Smogon Forums (https://www.smogon.com/forums/members/buttgallon.682693/)
